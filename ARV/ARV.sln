@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARV", "ARV\ARV.vcxproj", "{22B44C99-38AD-4993-B3C4-A17DE276EABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Debug|x64.ActiveCfg = Debug|x64
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Debug|x64.Build.0 = Debug|x64
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Debug|x86.ActiveCfg = Debug|Win32
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Debug|x86.Build.0 = Debug|Win32
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Release|x64.ActiveCfg = Release|x64
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Release|x64.Build.0 = Release|x64
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Release|x86.ActiveCfg = Release|Win32
+		{22B44C99-38AD-4993-B3C4-A17DE276EABF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F466B45-3EA4-4DE6-A7B3-EF53B237A2A5}
+	EndGlobalSection
+EndGlobal
